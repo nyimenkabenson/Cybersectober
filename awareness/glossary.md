@@ -9,3 +9,4 @@ Add **one term per line**, in alphabetical order if you can, in this format:
 - **MFA (multi-factor authentication)**: proving it's really you in two ways, like your password plus a code on your phone, so a stolen password alone isn't enough. (@cybersectober team)
 - **OTP (one-time password)**: a short code that works only once and only for a few minutes. Never share it with anyone, even someone claiming to be your bank. (@cybersectober team)
 - **Phishing**: a fake message, email or call pretending to be someone you trust, to trick you into giving away passwords, codes or money. (@cybersectober team)
+- **Social engineering**: when someone tricks you into sharing private information or giving them access. It's like a stranger at your school gate saying, "Your mum sent me to pick you up," hoping you'll believe them just because they sound convincing. (@nyimenkabenson)
