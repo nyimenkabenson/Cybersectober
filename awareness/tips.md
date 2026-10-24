@@ -10,3 +10,4 @@ Add one security tip per line, with your name. Keep it short and practical.
 - **Verify AI-generated links**, check the destination before clicking or sharing sensitive information, as attackers can use AI to create convincing phishing pages. (@priyanshi17112007)
 - **Check linked devices regularly**, linked devices shows every computer or browser logged into your account. If you see a session you don't recognize, log it out right away. (@nyimenkabenson)
 - **Grandma, Grandpa: Never give anyone the code that comes by text message.**, real banks and companies will never ask you for that code. Only a thief would. (@nyimenkabenson)
+- **Never commit secrets to version control**, keep API keys and passwords in environment variables or a secrets manager, because once a secret is pushed it lives forever in git history. (@nyimenkabenson)
